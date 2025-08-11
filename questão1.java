@@ -1,4 +1,4 @@
-//1. Modele e implemente um método recursivo que recebe um String em retorna true se este String for um palíndrome, false caso contrário.
+//1. Modele e implemente um metodo recursivo que recebe um String em retorna true se este String for um palíndrome, false caso contrário.
         // boolean isPal(String s) 
 public class questão1 {
 

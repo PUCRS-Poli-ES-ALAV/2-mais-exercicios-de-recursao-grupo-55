@@ -1,4 +1,4 @@
-//1. Modele e implemente um método recursivo que recebe um inteiro zero ou positivo e retorna um String com o número em binário.
+//1. Modele e implemente um metodo recursivo que recebe um inteiro zero ou positivo e retorna um String com o número em binário.
        //  String convBase2(int n) 
 
 
